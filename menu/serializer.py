@@ -15,6 +15,7 @@ class MenuSerializer(serializers.ModelSerializer):
             'current_rate',
             'img',
             'name',
+            'link',
         )
 
     def get_img(self, obj):
