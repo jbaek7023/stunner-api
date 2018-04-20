@@ -3,6 +3,8 @@ from rest_framework import generics
 from .models import Restaurant
 from .serializer import RestaurantSerializer
 
+
+
 # Create your views here.
 class RestaurantList(generics.ListAPIView):
     queryset = Restaurant.objects.all()
