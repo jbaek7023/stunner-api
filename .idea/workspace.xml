@@ -2,47 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="144fdefb-8dcb-4880-a30d-cb15d7b91bf4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/stunner-api.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/migrations/0002_auto_20180420_0915.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manage.py" afterPath="$PROJECT_DIR$/manage.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menu/admin.py" afterPath="$PROJECT_DIR$/menu/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menu/apps.py" afterPath="$PROJECT_DIR$/menu/apps.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menu/migrations/0001_initial.py" afterPath="$PROJECT_DIR$/menu/migrations/0001_initial.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menu/migrations/0002_auto_20180420_0553.py" afterPath="$PROJECT_DIR$/menu/migrations/0002_auto_20180420_0553.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menu/models.py" afterPath="$PROJECT_DIR$/menu/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menu/serializer.py" afterPath="$PROJECT_DIR$/menu/serializer.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menu/tests.py" afterPath="$PROJECT_DIR$/menu/tests.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menu/urls.py" afterPath="$PROJECT_DIR$/menu/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menu/views.py" afterPath="$PROJECT_DIR$/menu/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirement.txt" afterPath="$PROJECT_DIR$/requirement.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/restaurant/admin.py" afterPath="$PROJECT_DIR$/restaurant/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/restaurant/apps.py" afterPath="$PROJECT_DIR$/restaurant/apps.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/restaurant/migrations/0001_initial.py" afterPath="$PROJECT_DIR$/restaurant/migrations/0001_initial.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/restaurant/migrations/0002_auto_20180420_0548.py" afterPath="$PROJECT_DIR$/restaurant/migrations/0002_auto_20180420_0548.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/restaurant/migrations/0003_auto_20180420_0553.py" afterPath="$PROJECT_DIR$/restaurant/migrations/0003_auto_20180420_0553.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/restaurant/models.py" afterPath="$PROJECT_DIR$/restaurant/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/restaurant/serializer.py" afterPath="$PROJECT_DIR$/restaurant/serializer.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/restaurant/tests.py" afterPath="$PROJECT_DIR$/restaurant/tests.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/restaurant/urls.py" afterPath="$PROJECT_DIR$/restaurant/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/restaurant/views.py" afterPath="$PROJECT_DIR$/restaurant/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/review/admin.py" afterPath="$PROJECT_DIR$/review/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/review/apps.py" afterPath="$PROJECT_DIR$/review/apps.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/review/migrations/0001_initial.py" afterPath="$PROJECT_DIR$/review/migrations/0001_initial.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/review/models.py" afterPath="$PROJECT_DIR$/review/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/review/serializer.py" afterPath="$PROJECT_DIR$/review/serializer.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/review/tests.py" afterPath="$PROJECT_DIR$/review/tests.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/review/urls.py" afterPath="$PROJECT_DIR$/review/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/review/views.py" afterPath="$PROJECT_DIR$/review/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stunner/settings.py" afterPath="$PROJECT_DIR$/stunner/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stunner/urls.py" afterPath="$PROJECT_DIR$/stunner/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stunner/wsgi.py" afterPath="$PROJECT_DIR$/stunner/wsgi.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -57,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/review/models.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="6" column="55" lean-forward="false" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
+              <caret line="6" column="54" lean-forward="false" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -180,7 +141,7 @@
     <entry file="file://$PROJECT_DIR$/review/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="6" column="55" lean-forward="false" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
+          <caret line="6" column="54" lean-forward="false" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>

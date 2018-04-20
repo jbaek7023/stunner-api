@@ -4,7 +4,7 @@ from django.contrib.auth.models import User
 
 # Create your models here.
 class Review(models.Model):
-    user = models.ForeignKey(User)
+    user = models.ForeignKey(User, on_delete='Cascade')
     rate = models.IntegerField(default=0)
     comment = models.CharField(null=True, blank=True, max_length=50)
 
