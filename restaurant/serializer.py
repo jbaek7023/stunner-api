@@ -7,7 +7,7 @@ class RestaurantSerializer(serializers.ModelSerializer):
     img = serializers.SerializerMethodField()
     class Meta:
         model = Restaurant
-        fields = ('name', 'id', 'menus', 'cuisine', 'longitude', 'latitude', 'rate', 'img')
+        fields = ('name', 'id', 'menus', 'cuisine', 'longitude', 'latitude', 'rate', 'img', 'link',)
 
     def get_img(self, obj):
         print(obj)
