@@ -1,1 +1,1 @@
-web: gunicorn stormy-eyrie-49981.wsgi
+web: gunicorn stunner.wsgi
