@@ -12,7 +12,7 @@ class Restaurant(models.Model):
     rate = models.IntegerField(default=0)
     image = models.ImageField(upload_to='images/', blank=True, null=True)
     menus = models.ManyToManyField(Menu)
-    link = models.CharField(null=True, blank=True, max_length=50)
+    link = models.CharField(null=True, blank=True, max_length=200)
 
     def __str__(self):
         return self.name
