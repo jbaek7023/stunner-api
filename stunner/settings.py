@@ -37,6 +37,10 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'rest_framework',
+    'review',
+    'restaurant',
+    'menu',
 ]
 
 MIDDLEWARE = [
@@ -116,5 +120,14 @@ USE_TZ = True
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.11/howto/static-files/
+MEDIA_URL = '/media/' #DEBUG
+MEDIA_ROOT = os.path.join(os.path.dirname(BASE_DIR), 'media_cdn') #DEBUG
+STATIC_URL = '/static/' #DEBUG
 
-STATIC_URL = '/static/'
+ADMIN_MEDIA_PREFIX = STATIC_URL + 'admin/'
+
+# Debugging purpose
+STATICFILES_DIRS = [
+    os.path.join(BASE_DIR, "static-storage")
+]
+STATIC_ROOT = os.path.join(os.path.dirname(BASE_DIR), "static-serve")
